@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Damultra7
 - 👀 I’m interested in learn new knowledge.
-- 🌱 I’m currently learning basic notions of computer ptogramming.
+- 🌱 I’m currently learning basic notions of computer programming.
 - 💞️ I’m looking to collaborate on my job.
 - 📫 How to reach me through my e-mail.
 
